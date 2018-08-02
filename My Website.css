@@ -13,10 +13,13 @@
 
 .body
 { margin : 10 auto;
-    color: blueviolet;
+    color: black;
     margin-right: 10px;
     font-size: 10px;
+    text-align:right;
+    
     font-family:cursive;
+    
     background-color: antiquewhite;
      
 }
@@ -52,5 +55,7 @@
     color:white;
     background-color: purple;
     text-align:center;
+    font-size: 30px;
+    
 }
 
